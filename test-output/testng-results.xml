@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="124" started-at="2020-07-22T18:05:38Z" finished-at="2020-07-22T18:05:38Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="124" started-at="2020-07-22T18:05:38Z" finished-at="2020-07-22T18:05:38Z">
+      <class name="com.IB.Test.TestNgTC1">
+        <test-method status="PASS" signature="Additoin()[pri:1, instance:com.IB.Test.TestNgTC1@32e6e9c3]" name="Additoin" duration-ms="32" started-at="2020-07-22T23:35:38Z" finished-at="2020-07-22T23:35:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Additoin -->
+        <test-method status="PASS" signature="Subtraction()[pri:2, instance:com.IB.Test.TestNgTC1@32e6e9c3]" name="Subtraction" duration-ms="4" started-at="2020-07-22T23:35:38Z" finished-at="2020-07-22T23:35:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Subtraction -->
+        <test-method status="PASS" signature="Multiplication()[pri:3, instance:com.IB.Test.TestNgTC1@32e6e9c3]" name="Multiplication" duration-ms="3" started-at="2020-07-22T23:35:38Z" finished-at="2020-07-22T23:35:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Multiplication -->
+        <test-method status="PASS" signature="Dividation()[pri:4, instance:com.IB.Test.TestNgTC1@32e6e9c3]" name="Dividation" duration-ms="11" started-at="2020-07-22T23:35:38Z" finished-at="2020-07-22T23:35:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Dividation -->
+      </class> <!-- com.IB.Test.TestNgTC1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
